@@ -1,4 +1,5 @@
 bin/*
 !bin/.gitkeep
 *.bf
+!hello_world.bf
 .DS_Store
